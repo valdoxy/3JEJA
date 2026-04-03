@@ -1,5 +1,5 @@
-# <<<<<<< HEAD
-Your local changes
+<<<<<<< HEAD
+Your local version
 =======
-Remote changes from aba4e1c
->>>>>>> aba4e1c... 3jeja Code
+Remote version
+>>>>>>> 521f584 (remote commit)
